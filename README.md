@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/GiovaneBarnes/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/GiovaneBarnes/LeetCode-Practice/tree/master/0212-word-search-ii) |
 ## String
 |  |
@@ -32,5 +33,18 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/GiovaneBarnes/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/GiovaneBarnes/LeetCode-Practice/tree/master/0212-word-search-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/GiovaneBarnes/LeetCode-Practice/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/GiovaneBarnes/LeetCode-Practice/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/GiovaneBarnes/LeetCode-Practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
